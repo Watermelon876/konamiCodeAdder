@@ -17,6 +17,8 @@ function embedImage(imageSrc) {
     image.src = imageSrc;
     banner.appendChild(image);
 
+    banner.style.z-index = 10;
+
     return banner;
 }
 
