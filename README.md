@@ -8,5 +8,4 @@ In order to use, add the following tags to any HTML webpage after the body, repl
 var konamiImage = new codeImagePair(konami, &lt;myImageURL&gt;);
 &lt;/script&gt;
 
-(Replace the escaped characters with actual characters)
-
+Original idea and some code taken from thebombzen (Leo Izen).
